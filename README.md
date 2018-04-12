@@ -1,3 +1,9 @@
-# react-testing-with-jest
+## React Countdown Timer
 
-Code for the [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/) article on the Auth0 blog.
+### Running the application
+
+```sh
+$ npm install
+$ webpack
+$ npm start
+```
